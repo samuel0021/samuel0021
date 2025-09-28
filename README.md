@@ -1,21 +1,20 @@
 # 👨‍💻 Samuel Vieira
 
-*`Desenvolvedor Back-End`*
+*`Desenvolvedor Full Stack`*
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+Estou no último semestre de Análise e Desenvolvimento de Sistemas e gosto de criar projetos pessoais, como sistemas desktop, sites ou minigames. Procuro meu primeiro estágio pra ganhar experiência profissional na área e continuar evoluindo como desenvolvedor.
 
 <p align="left">
     <a href="mailto:samuel.pvieira.contato@gmail.com">
         <img 
             alt="email" 
-            tittle="Texto texto" 
+            tittle="Me envie um email" 
             src="https://custom-icon-badges.demolab.com/badge/Samuel_Vieira-black?style=for-the-badge&logo=mail&logoColor=white"/>
     </a>
     <a href="link">
         <img 
             alt="texto alternativo" 
-            tittle="Texto texto" 
+            tittle="Meu linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/Samuel_Vieira-0077B5?style=for-the-badge&logo=linkedin-svg&logoColor=white"/>
     </a>
     
@@ -24,7 +23,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 ---
 
 ### 🤖Linguagens e Tecnologias
-
+<!-- -->
 <img 
     align="left"
     alt="csharp"
