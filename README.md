@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👨‍💻 Samuel Vieira
 
-<!--
-**samuel0021/samuel0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*`Desenvolvedor Back-End`*
 
-Here are some ideas to get you started:
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+        <a href="mailto:samuel.pvieira.contato@gmail.com">
+            <img 
+                alt="email" 
+                tittle="Texto texto" 
+                src="https://custom-icon-badges.demolab.com/badge/Samuel_Vieira-black?style=for-the-badge&logo=mail&logoColor=white"
+                /></a>A
+        <a href="link">
+            <img alt="texto alternativo" tittle="Texto texto" src="link"/></a>
+        <a href="link">
+            <img alt="texto alternativo" tittle="Texto texto" src="link"/></a>
+        <a href="link">
+            <img alt="texto alternativo" tittle="Texto texto" src="link"/></a>
+    </p>
+
+
