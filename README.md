@@ -16,7 +16,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
             <img 
                 alt="texto alternativo" 
                 tittle="Texto texto" 
-                src="https://custom-icon-badges.demolab.com/badge/Samuel_Vieira-0077B5?style=for-the-badge&logo=in&logoColor=white"/>
+                src="https://custom-icon-badges.demolab.com/badge/Samuel_Vieira-0077B5?style=for-the-badge&logo=linkedin-svg&logoColor=white"/>
                 </a>
         <a href="link">
             <img alt="texto alternativo" tittle="Texto texto" src="link"/></a>
