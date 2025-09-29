@@ -11,7 +11,7 @@ Estou no último semestre de Análise e Desenvolvimento de Sistemas e gosto de c
             tittle="Me envie um email" 
             src="https://custom-icon-badges.demolab.com/badge/Samuel_Vieira-black?style=for-the-badge&logo=mail&logoColor=white"/>
     </a>
-    <a href="link">
+    <a href="https://www.linkedin.com/in/samuel-vieira-92a2a4279?utm_source=share_via&utm_content=profile&utm_medium=member_android">
         <img 
             alt="texto alternativo" 
             tittle="Meu linkedin" 
