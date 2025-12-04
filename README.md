@@ -82,5 +82,20 @@ Estou no último semestre de Análise e Desenvolvimento de Sistemas e gosto de c
 
 ### 📊 Estatísticas
 
-
+<p>
+    <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=samuel0021&show_icons=true&theme=tokyonight&locale=pt-br"
+    />
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0021&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</p>
 
