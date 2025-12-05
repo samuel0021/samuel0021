@@ -2,7 +2,7 @@
 
 *`Desenvolvedor Full Stack`*
 
-Estou no último semestre de Análise e Desenvolvimento de Sistemas e gosto de criar projetos pessoais, como sistemas desktop, sites ou minigames. Procuro meu primeiro estágio pra ganhar experiência profissional na área e continuar evoluindo como desenvolvedor.
+Estou cursando Análise e Desenvolvimento de Sistemas e gosto de criar projetos pessoais, como sistemas desktop, websites ou minigames.
 
 <p align="left">
     <a href="mailto:samuel.pvieira.contato@gmail.com" target="_blank">
