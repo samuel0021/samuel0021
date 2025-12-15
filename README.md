@@ -2,7 +2,7 @@
 
 *`Desenvolvedor Full Stack`*
 
-Estou cursando Análise e Desenvolvimento de Sistemas e gosto de criar projetos pessoais, como sistemas desktop, websites ou minigames.
+Estou cursando Análise e Desenvolvimento de Sistemas e gosto de criar projetos pessoais que me auxiliam no dia a dia e no desenvolvimento de outros projetos.
 
 <p align="left">
     <a href="mailto:samuel.pvieira.contato@gmail.com" target="_blank">
