@@ -65,7 +65,15 @@ Estou cursando Análise e Desenvolvimento de Sistemas e gosto de criar projetos 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
-          
+
+<img 
+    align="left"
+    alt="mysql"
+    tittle="MySQL"
+    height="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+                    
        
           
 <br/>
