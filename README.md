@@ -32,13 +32,6 @@ Estou cursando Análise e Desenvolvimento de Sistemas e gosto de criar projetos 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<img 
-    align="left"
-    alt="c"
-    tittle="C"
-    height="30px"
-    style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" />
 
 <img 
     align="left"
