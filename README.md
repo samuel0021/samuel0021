@@ -1,6 +1,6 @@
 # 👨‍💻 Samuel Vieira
 
-*`Desenvolvedor Full Stack`*
+*`Desenvolvedor Back-End`*
 
 Estou cursando Análise e Desenvolvimento de Sistemas e gosto de criar projetos pessoais que me auxiliam no dia a dia e no desenvolvimento de outros projetos.
 
